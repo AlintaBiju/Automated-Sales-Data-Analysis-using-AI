@@ -1,7 +1,7 @@
-### Automated Sales Data Analysis using AI
+### Automated Sales Data Analysis using AI🤖
 An automated pipeline that ingests daily sales report emails, loads the data into a PostgreSQL database, and uses AI to clean and analyze it.
 
-### Overview
+### Overview 
 This is a project simulating a daily sales reporting workflow. Sales data is sent via email as CSV attachments, and the pipeline automates the flow from inbox to database, then uses AI for data cleaning and analysis,removing the need for manual data entry or manual cleaning.
 
 ### Workflow 
