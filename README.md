@@ -10,3 +10,4 @@ This is a project simulating a daily sales reporting workflow. Sales data is sen
 3. Insert rows into a table (n8n) - Loads the parsed rows into their respective PostgreSQL tables on Supabase.
 4. Data cleaning (Quadratic AI) - Once loaded, Quadratic AI's built-in AI chatbot cleans the data. Cleaning steps are validated using Python.
 5. Analysis (Quadratic AI) - AI assisted analysis is performed on the cleaned data.
+<img width="1342" height="672" alt="image" src="https://github.com/user-attachments/assets/dadf05a6-9f8d-4b38-80b2-3b4ab372c2a3" />
